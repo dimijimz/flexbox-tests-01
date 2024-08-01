@@ -1,0 +1,2 @@
+/* Flexbox alignment test for August 1st */
+.container { display: flex; justify-content: space-between; }
